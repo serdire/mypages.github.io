@@ -2,7 +2,8 @@
 # the default layout is 'page'
 icon: fas fa-user-shield
 order: 4
-title: About Mee
+title: About Me
+
 ---
 
 # 👋 About Me
